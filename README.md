@@ -37,7 +37,7 @@ The following visuals illustrate how different ethical frameworks process the sa
 ### 1. Scenario Setup
 
 #### Selecting Ethical Framework
-[Choosing Principle](./images/Choosing principle.png)
+![Choosing Principle](images/Choosing_principle.png)
 
 #### Selecting Scenario (School Bus Case)
 [Select Scenario](./images/Select Scenario.png)
