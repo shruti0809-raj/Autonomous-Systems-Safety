@@ -37,23 +37,23 @@ The following visuals illustrate how different ethical frameworks process the sa
 ### 1. Scenario Setup
 
 #### Selecting Ethical Framework
-[Choosing Principle](./images/choosing principle.png)
+[Choosing Principle](./images/Choosing principle.png)
 
 #### Selecting Scenario (School Bus Case)
-[Select Scenario](./images/select scenario.png)
+[Select Scenario](./images/Select Scenario.png)
 
 ---
 
 ### 2. Humanist Model (Minimize Total Harm)
 
 #### Scenario Execution
-[Humanist Approach](./images/humanist 1.png)
+[Humanist Approach](./images/Humanist 1.png)
 
 #### Profiling and Impact Analysis
-[Humanist Profiling](./images/humanist 2.png)
+[Humanist Profiling](./images/Humanist 2.png)
 
 #### Final Decision Summary
-[Humanist Summary](./images/humanist 3.png)
+[Humanist Summary](./images/Humanist 3.png)
 
 The humanist model evaluates all individuals involved and selects the path that minimizes overall harm, even if it does not prioritize the vehicle’s occupant.
 
@@ -62,13 +62,13 @@ The humanist model evaluates all individuals involved and selects the path that 
 ### 3. Profit-Based Model (Minimize Cost / Liability)
 
 #### Profiling and Alternative Paths
-[Profit Profiling](./images/profit 1.png)
+[Profit Profiling](./images/Profit 1.png)
 
 #### Cost Calculation Across Paths
-[Profit Calculation](./images/profit 2.png)
+[Profit Calculation](./images/Profit 2.png)
 
 #### Final Decision Summary
-[Profit Summary](./images/profit 3.png)
+[Profit Summary](./images/Profit 3.png)
 
 The profit-based model assigns cost values to outcomes and selects the path that minimizes financial or liability impact, which may not align with ethical harm minimization.
 
@@ -77,10 +77,10 @@ The profit-based model assigns cost values to outcomes and selects the path that
 ### 4. Protectionist Model (Prioritize Passenger Safety)
 
 #### Profiling and Decision Paths
-[Protectionist Profiling](./images/protectionist 1.png)
+[Protectionist Profiling](./images/Protectionist 1.png)
 
 #### Final Decision Summary
-[Protectionist Summary](./images/protectionist 2.png)
+[Protectionist Summary](./images/Protectionist 2.png)
 
 The protectionist model prioritizes the safety of the vehicle’s occupant, even when this increases risk to others in the environment.
 
