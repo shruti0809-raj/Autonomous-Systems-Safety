@@ -1,7 +1,7 @@
 # Autonomous Systems Safety  
 ### Ethical Decision-Making in Self-Driving Systems
 
-Autonomous systems are increasingly being deployed in environments where decisions can have direct consequences on human life. In such settings, decision-making is not purely technical—it reflects underlying ethical frameworks, trade-offs, and assumptions about how harm should be distributed.
+Autonomous systems are increasingly being deployed in environments where decisions can have direct consequences on human life. In such settings, decision-making is not purely technical it reflects underlying ethical frameworks, trade-offs, and assumptions about how harm should be distributed.
 
 This project explores how different moral decision-making models behave in high-stakes autonomous driving scenarios, and how these behaviors change when systems interact with each other.
 
@@ -44,7 +44,7 @@ The analysis focuses not only on individual decisions, but on how these framewor
 
 ---
 
-## Why this matters
+## Context
 
 As AI systems become more agentic and operate in shared environments, ethical decision-making can no longer be treated as an isolated problem. Systems must be evaluated in the context of **interaction, coordination, and systemic risk**, not just individual behavior.
 
@@ -57,8 +57,3 @@ This work highlights how seemingly reasonable decision rules can produce uninten
 The complete analysis is available here:  
 [Written Critique – Ethical Autonomous Vehicles](./critique.pdf)
 
----
-
-## Direction
-
-This project is part of a broader exploration into **autonomous systems safety**, focusing on how AI systems behave in real-world, high-stakes environments and how technical design choices translate into ethical and policy challenges.
