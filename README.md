@@ -57,3 +57,10 @@ This work highlights how seemingly reasonable decision rules can produce uninten
 The complete analysis is available here:  
 [Written Critique – Ethical Autonomous Vehicles](./critique.pdf)
 
+---
+## Source / Simulation Environment
+
+This analysis is based on a simulated ethical decision-making environment for autonomous vehicles, where different moral judgment algorithms are tested across high-risk scenarios.
+
+Video reference:  
+https://vimeo.com/236279998
