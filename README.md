@@ -64,3 +64,63 @@ This analysis is based on a simulated ethical decision-making environment for au
 
 Video reference:  
 https://vimeo.com/236279998
+
+---
+
+## Scenario Walkthrough
+
+The following visuals illustrate how different ethical frameworks process the same scenario and arrive at different decisions.
+
+---
+
+### 1. Scenario Setup
+
+#### Selecting Ethical Framework
+![Choosing Principle](images/choosing principle.png)
+
+#### Selecting Scenario (School Bus Case)
+![Select Scenario](images/select scenario.png)
+
+---
+
+### 2. Humanist Model (Minimize Total Harm)
+
+#### Scenario Execution
+![Humanist Approach](images/humanist 1.png)
+
+#### Profiling and Impact Analysis
+![Humanist Profiling](images/humanist 2.png)
+
+#### Final Decision Summary
+![Humanist Summary](images/humanist 3.png)
+
+The humanist model evaluates all individuals involved and selects the path that minimizes overall harm, even if it does not prioritize the vehicle’s occupant.
+
+---
+
+### 3. Profit-Based Model (Minimize Cost / Liability)
+
+#### Profiling and Alternative Paths
+![Profit Profiling](images/profit 1.png)
+
+#### Cost Calculation Across Paths
+![Profit Calculation](images/profit 2.png)
+
+#### Final Decision Summary
+![Profit Summary](images/profit 3.png)
+
+The profit-based model assigns cost values to outcomes and selects the path that minimizes financial or liability impact, which may not align with ethical harm minimization.
+
+---
+
+### 4. Protectionist Model (Prioritize Passenger Safety)
+
+#### Profiling and Decision Paths
+![Protectionist Profiling](images/protectionist 1.png)
+
+#### Final Decision Summary
+![Protectionist Summary](images/protectionist 2.png)
+
+The protectionist model prioritizes the safety of the vehicle’s occupant, even when this increases risk to others in the environment.
+
+---
